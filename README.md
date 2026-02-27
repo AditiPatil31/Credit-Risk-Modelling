@@ -114,7 +114,7 @@ git clone https://github.com/AditiPatil31/Credit-Risk-Modelling.git
 cd Credit-Risk-Modelling
 pip install -r requirements.txt
 streamlit run main.py
-
+```
 ---
 
 ## 📸 Application Preview
