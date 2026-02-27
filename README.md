@@ -1,6 +1,6 @@
 # 🏦 Lauki Finance – Credit Risk Modelling App
 
-[🚀 Live Demo](https://your-live-demo-link.streamlit.app)  
+[🚀 Live Demo](https://aditi-credit-risk-modelling.streamlit.app/)  
 [💼 LinkedIn](https://www.linkedin.com/in/aditi-patil31/)  
 [📂 GitHub Repository](https://github.com/AditiPatil31/Credit-Risk-Modelling)
 
