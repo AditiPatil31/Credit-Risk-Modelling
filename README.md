@@ -2,7 +2,7 @@
 
 [🚀 Live Demo](https://your-live-demo-link.streamlit.app)  
 [💼 LinkedIn](https://www.linkedin.com/in/aditi-patil31/)  
-[📂 GitHub Repository](https://github.com/your-username/credit-risk-app)
+[📂 GitHub Repository](https://github.com/AditiPatil31/Credit-Risk-Modelling)
 
 ---
 
@@ -119,14 +119,18 @@ streamlit run main.py
 
 ## 📸 Application Preview
 
-<p align="center">
-  <img src="assets/1.png" width="45%" />
-  <img src="assets/2.png" width="45%" />
-</p>
+### 🖥️ Dashboard
+![](assets/1.png)
 
-<p align="center">
-  <img src="assets/3.png" width="45%" />
-  <img src="assets/4.png" width="45%" />
-</p>
+### 📊 Risk Analysis
+![](assets/2.png)
+
+### 🔮 What-If Simulator 1
+![](assets/3.png)
+
+### 📈 What-If Simulator 2
+![](assets/4.png)
+
+---
 
 ⭐ If you like this project, consider giving it a star!
